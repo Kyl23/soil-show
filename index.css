@@ -1,0 +1,9 @@
+.attributes {
+    position: fixed;
+    opacity: 0.5;
+}
+
+canvas{
+    width: 100%;
+    height: 100vh;
+}
